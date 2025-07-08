@@ -1,4 +1,3 @@
-/*
 ======================================================================
 README — EMOTION LOGGING COMPANION: TILT + LED + SERVO + AMBIENT GLOW
 ======================================================================
@@ -31,7 +30,6 @@ Hardware Requirements:
 - WS2812 (NeoPixel) LED strip (18 LEDs)
 - Servo motor
 - Arduino Uno
-===============================================================================
 
 Code Support Acknowledgement
 ----------------------------
@@ -40,5 +38,3 @@ ChatGPT was used for debugging, condensing complex logic, and improving
 code structure for readability and performance.
 For transparency and future reference, a QR code linking to the full
 source code is included in the research workbook.
-
-*/
