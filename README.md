@@ -34,11 +34,11 @@ Hardware Requirements:
 ===============================================================================
 
 Code Support Acknowledgement
+----------------------------
 This script was developed with the assistance of ChatGPT by OpenAI.
 ChatGPT was used for debugging, condensing complex logic, and improving
 code structure for readability and performance.
 For transparency and future reference, a QR code linking to the full
 source code is included in the research workbook.
----------------------------------------------------------------
 
 */
